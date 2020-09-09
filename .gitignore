@@ -6,7 +6,8 @@
 
 # Ignore bundler config.
 /.bundle
-
+# 8/9追記
+/vendor/bundle
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
